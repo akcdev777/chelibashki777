@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelibashki777
 - 👀 I’m interested in software development, cyber security and blockchanin technology.
-- 🌱 I’m currently learning Java, SQL, HTTP, CSS, JavaScript, PHP, SQL, Python, C#
+- 🌱 I’m currently learning Java, JavaScript, SQL, HTTP, CSS, PHP, Python,C++ and C#
 - 📫 How to reach me : twitter @achelibashki
 
 <!---
